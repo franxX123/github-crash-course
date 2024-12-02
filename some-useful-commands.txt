@@ -4,3 +4,7 @@ git status
 git commit -m "some_message"
 git add <file1.ext> ...
 
+----- Branch
+git branch -- see existing branches
+git branch -D <branch_name_to_delete>
+
