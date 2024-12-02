@@ -1,0 +1,6 @@
+git checkout [<branch_name> | <commit_id>]
+git log
+git status
+git commit -m "some_message"
+git add <file1.ext> ...
+
