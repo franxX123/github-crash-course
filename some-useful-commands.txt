@@ -8,3 +8,6 @@ git add <file1.ext> ...
 git branch -- see existing branches
 git branch -D <branch_name_to_delete>
 
+----- Connecting Local Repo to Github
+upstream-branch 
+git remote add origin <https://github.com/123213/id123>
