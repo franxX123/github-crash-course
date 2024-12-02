@@ -9,5 +9,8 @@ git branch -- see existing branches
 git branch -D <branch_name_to_delete>
 
 ----- Connecting Local Repo to Github
-upstream-branch 
-git remote add origin <https://github.com/123213/id123>
+git remote add origin <github-url>
+git --set-upstream origin <branch-name>
+git push
+alternative: git push origin master // add local branch to github branch
+git checkout -b <branch-name>
